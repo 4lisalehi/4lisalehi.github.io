@@ -7,11 +7,11 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Ali Salehi / Site Title"
+title                    : "Ali Salehi"
 title_separator          : "-"
 name                     : &name "Ali Salehi"
-description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+description              : &description "Software Engineering Student, Interested in Cryptology, Cryptography, Cryptoanalysis"
+url                      : https://4lisalehi.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "4lisalehi/4lisalehi.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -73,18 +73,18 @@ social:
 analytics:
   provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id          : 
+    tracking_id          : "UA-115562983-1"
 
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Ali Salehi"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "Software Engineering Student, Interested in Cryptology, Cryptography, Cryptoanalysis"
   location         : "Tehran, Iran"
   employer         :
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  googlescholar    :
+  email            : "alisalehi1995@gmail.com"
   uri              :
   bitbucket        :
   codepen          :
@@ -98,13 +98,13 @@ author:
   instagram        :
   lastfm           :
   linkedin         : "4lisalehi"
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            :
   pinterest        :
   soundcloud       :
-  stackoverflow    : "https://stackoverflow.com/users/3856770/4lisalehi"
+  stackoverflow    : "3856770/4lisalehi"
   steam            :
   tumblr           :
-  twitter          : "4lisalehi"
+  twitter          :
   vine             :
   weibo            :
   xing             :
