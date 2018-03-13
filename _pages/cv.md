@@ -48,7 +48,7 @@ Skills
   * The Core Platform
   * Object Oriented Programming
   * Design Patterns: Creational, Structural, Behavorial
-  * Modern Java including Modularity in Java 9
+  * Modern Java including Java 8 & Java 9
 * Python
 * MySQL
 * NoSQL Databases
