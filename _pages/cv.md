@@ -19,12 +19,14 @@ Work experience
 ======
 * Winter 2017: Front-end Web Developer
   * Sharif Viratech inc
-  * Duties included: Testing & Debugging the company's Persian Email service written in Angular
+  * Duties included: Testing & Debugging the company's Persian Email service Front-end functionality written in Angular
   * Supervisor: Mr. Amin Rahimi
 
 * Summer 2017: Full Stack JS Developer
   * Fandogh
-  * Duties included: Front-end development using Vue.js & Nuxt.js | Back-end Development using Node.js
+  * Duties included: 
+    * Front-end development using Vue.js & Nuxt.js
+    * Back-end Development using Node.js & Hapi.js Framework
   * Supervisor: Mr. Pooya Parsa
 
 Skills
@@ -33,6 +35,7 @@ Skills
 * Competitive Programming
   * Algorithms & Data Structures
   * Graph Theory
+  * Number Theory
   * Dynamic Programming
   * Computational Geometry
   * Search
@@ -43,8 +46,9 @@ Skills
   * Modern C++ including C++11 & C++14
 * Java
   * The Core Platform
-  * Modern Java including Modularity in Java 9
+  * Object Oriented Programming
   * Design Patterns: Creational, Structural, Behavorial
+  * Modern Java including Modularity in Java 9
 * Python
 * MySQL
 * NoSQL Databases
@@ -58,7 +62,8 @@ Skills
 * Back-end Development
   * Node.js
   * Hapi.js Framework
-  * PHP
+* PHP
+* Android Basics
 
 Interests
 ======

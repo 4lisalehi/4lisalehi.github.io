@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: ""
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,11 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-Studying Software Engineering at Amirkabir University of Technology [Iran's Mother Industrial University]
-My research interests include:
+Currently studying Software Engineering at Amirkabir University of Technology [Iran's Mother Industrial University]
+
+My research interests which I have started very recently include:
 
 * Cryptology
 * Cryptography
 * Cryptoanalysis
-
-which I have started very recently. 
