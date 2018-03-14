@@ -14,4 +14,4 @@ My research interests which I have started very recently include:
 
 * Cryptology
 * Cryptography
-* Cryptoanalysis
+* Cryptanalysis
