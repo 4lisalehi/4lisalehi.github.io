@@ -54,6 +54,8 @@ Skills
 * NoSQL Databases
   * MongoDB
   * Redis
+* Linux
+* Git
 * Javascript
 * Front-end Development
   * HTML, CSS, JQuery
