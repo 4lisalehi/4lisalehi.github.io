@@ -65,7 +65,7 @@ Skills
   * Node.js
   * Hapi.js Framework
 * PHP
-* Android Basics
+* Android Development Basics
 
 Interests
 ======
