@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-Currently studying Software Engineering at Amirkabir University of Technology [Iran's Mother Industrial University]
+Studying Software Engineering at Amirkabir University of Technology
 
-My research interests which I have started very recently include:
+Interested in:
 
 * Cryptology
 * Cryptography
