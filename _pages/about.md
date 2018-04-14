@@ -14,4 +14,5 @@ Interested in:
 
 * Quantum computing
 * Distributed systems and algorithms
+* Cryptography
 * Programming languages and formal methods
