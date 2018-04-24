@@ -12,7 +12,7 @@ Studying Software Engineering at Amirkabir University of Technology
 
 Interested in:
 
-* Quantum computing
+* High performance computing
 * Distributed systems and algorithms
 * Cryptography
 * Programming languages and formal methods
