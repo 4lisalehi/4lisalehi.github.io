@@ -11,23 +11,23 @@ redirect_from:
 
 Education
 ======
-* B.S. in Software Engineering, Amirkabir University of Technology, 2014
-* M.S. in Jekyll, Github University, 2014
-* Ph.D in Version Control Theory, Github University, 2018 (expected)
+* Diploma in Mathematics & Physics, National Organization for Development of Exceptional Talents (Sampad) - Shahid Beheshti high school
+* B.S. in Software Engineering, Amirkabir University of Technology
 
 Work experience
 ======
 * Winter 2017: Front-end Web Developer
   * Sharif Viratech inc
-  * Duties included: Testing & Debugging the company's Persian Email service Front-end functionality written in Angular
+  * As a Front-end/AngularJS development intern at UI/UX team, I developed several functionalities of some of Viratech projects including Ganjeh and Kateb.
   * Supervisor: Mr. Amin Rahimi
 
 * Summer 2017: Full Stack JS Developer
   * Fandogh
-  * Duties included: 
-    * Front-end development using Vue.js & Nuxt.js
-    * Back-end Development using Node.js & Hapi.js Framework
+  * For my university internship in summer 2017, I went to Fandogh; We formed a team of 3 developers and started a collaborative design and development of an API and Web Application using Express.js / Vue.js / Nuxt.js
   * Supervisor: Mr. Pooya Parsa
+
+* Present: Expert Back-end Developer
+  * TAP30
 
 Skills
 ======
@@ -37,18 +37,14 @@ Skills
   * Graph Theory
   * Number Theory
   * Dynamic Programming
-  * Computational Geometry
   * Search
   * Sort
 * C++
   * Object Oriented Programming
   * STL (Standard Template Library)
-  * Modern C++ including C++11 & C++14
 * Java
   * The Core Platform
   * Object Oriented Programming
-  * Design Patterns: Creational, Structural, Behavorial
-  * Modern Java including Java 8 & Java 9
 * Python
 * MySQL
 * NoSQL Databases
@@ -63,35 +59,14 @@ Skills
   * Nuxt.js
 * Back-end Development
   * Node.js
+  * Express.js Framework
   * Hapi.js Framework
 * PHP
 * Android Development Basics
 
 Interests
 ======
-* Cryptology, Cryptography, Crytoanalysis
+* Cryptography
 * White Hat
 * Competitive Programming
 * Coding Competitions
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
