@@ -8,11 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-Studying Software Engineering at Amirkabir University of Technology
+Software Engineering Student at Amirkabir University of Technology
 
 Interested in:
 
-* High performance computing
 * Distributed systems and algorithms
 * Cryptography
 * Programming languages and formal methods

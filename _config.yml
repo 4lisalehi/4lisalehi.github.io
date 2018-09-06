@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Ali Salehi"
 title_separator          : "-"
 name                     : &name "Ali Salehi"
-description              : &description "Software Engineering Student, Interested in High performance computing, Distributed systems and algorithms, Cryptography, Programming languages and formal methods"
+description              : &description "Software Engineering Student, Interested in Distributed systems and algorithms, Cryptography, Programming languages and formal methods"
 url                      : https://4lisalehi.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "4lisalehi/4lisalehi.github.io"
@@ -83,7 +83,7 @@ analytics:
 author:
   name             : "Ali Salehi"
   avatar           : "profile.png"
-  bio              : "Software Engineering Student, Interested in High performance computing, Distributed systems and algorithms, Cryptography, Programming languages and formal methods"
+  bio              : "Software Engineering Student, Distributed systems and algorithms, Cryptography, Programming languages and formal methods"
   location         : "Tehran, Iran"
   employer         :
   googlescholar    :
