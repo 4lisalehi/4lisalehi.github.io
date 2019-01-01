@@ -13,5 +13,5 @@ Software Engineering Student at Amirkabir University of Technology
 Interested in:
 
 * Distributed systems and algorithms
-* Cryptography
+* Cloud computing
 * Programming languages and formal methods

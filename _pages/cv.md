@@ -16,10 +16,6 @@ Education
 
 Work experience
 ======
-* Winter 2017: Front-end Web Developer
-  * Sharif Viratech inc
-  * As a Front-end/AngularJS development intern at UI/UX team, I developed several functionalities of some of Viratech projects including Ganjeh and Kateb.
-  * Supervisor: Mr. Amin Rahimi
 
 * Summer 2017: Full Stack JS Developer
   * Fandogh
@@ -63,10 +59,3 @@ Skills
   * Hapi.js Framework
 * PHP
 * Android Development Basics
-
-Interests
-======
-* Cryptography
-* White Hat
-* Competitive Programming
-* Coding Competitions
